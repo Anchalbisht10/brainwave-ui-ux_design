@@ -5,8 +5,8 @@ A modern and responsive AI SaaS landing page built using React.js, Vite, and Tai
 ---
 
 🚀 Live Demo
-
-👉 (Add your Vercel link here)
+[
+👉 [https://brainwave-ui-ux-design.vercel.app]
 
 ---
 
